@@ -93,6 +93,26 @@ Convergine, [blog] 18 September. Available at:
 
 ## Sitemap:
 
+### About us                  
+Organisation history
+Vision and mission
+Goals and objectives
+
+### Contact
+Email address
+Phone number
+Physical address
+
+### Rentals
+1-bedroom apartments
+2-bedroom apartments
+3-bedroom apartments
+
+### Houses
+Houses for sale
+Details of agents
+Estates
+
                                                   
  
  

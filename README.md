@@ -63,6 +63,43 @@ ST10503131 Tebogo Boshomane
 •	Web designer – R870
 •	Total = R2624, monthly expense = R430 and yearly expense= R 13 800
 
+## References
+•	Property 24, 2026. Find Property for Sale.
+[online] Available at:
+<Property for Sale: Houses for sale: Property24> [Accessed 13 August 2026].
+•	Rawson Property Group, 2026.  Our story goes way back.
+[online] Available at:
+<About Us - Rawson Property Group> [Accessed 13 August 2026].
+•	National Real Estate 1933, 2026. Company Background.
+[online] Available at:
+<Our Company | National Real Estate> [Accessed 13 August 2026].
+•	Host Africa South Africa, 2026. Browse all Domain Extensions.
+[online] Available at:
+<Domain Name Search - Register Your Domain | HOSTAFRICA> [Accessed 13 August 2026].
+•	Host Africa South Africa, 2026. Web Hosting in South Africa – Fast, Reliable and Secure.
+[online] Available at:
+<Web Hosting South Africa | Fast, Stable and Secure> [Accessed 13 August 2026].
+•	Convergine. 2025. The Essential Website Hosting Requirements Every Business Must Know.
+Convergine, [blog] 18 September. Available at:
+<Website Hosting Requirements: A Business Owner's Checklist> [Accessed 13 August 2026].
+•	Admin, 2026. Best Programming Languages for Web Development 2026. Apptechies, [blog] 4 June. Available at:
+<Best Programming Languages for Web Development 2026> [Accessed 13 August 2026].
+•	GeeksforGeeks, 2025. What is CSS?.
+[online] Available at:
+<What is CSS? - GeeksforGeeks> [Accessed 13 August 2026].
+•	W3 schools, 2026. HTML Introduction.
+            [online] Available at:
+<Introduction to HTML> [Accessed 13 August 2026].
+
+
+
+
+
+
+
+
+
+
 
 
 
